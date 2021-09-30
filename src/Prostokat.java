@@ -1,4 +1,4 @@
-public class Prostokat extends Figura {
+public class Prostokat extends Trapez implements Obliczenia {
 
     double bokA;
     double bokB;
